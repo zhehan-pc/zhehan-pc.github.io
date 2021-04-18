@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**zhehanPC/zhehanPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里是 **开始** 页面，你可以在这里选择下一步你要做什么……
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 学习——去学习有关的信息技术知识吧
+
+  
+
+- 娱乐——有什么好玩的呢
+
+  
+
+- 提问——去向我提出心中的疑惑吧
+
+  
+
+- 关于——关于网站和我的信息都在这了呢
